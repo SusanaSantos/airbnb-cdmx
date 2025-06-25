@@ -22,3 +22,11 @@ airbnb-cdmx-exploracao/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+
+## 📥 Fonte de Dados
+- [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+- Também disponível no [Kaggle - Mexico City Airbnb](https://www.kaggle.com/datasets)
+
+## 📌 Nota
+Este projeto está em construção e irá evoluir com novas análises, mapas interativos e melhorias de visualização. Feedbacks são bem-vindos!
